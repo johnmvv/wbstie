@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/emc", "destination": "/emc/sample.pdf", "permanent": true }
+  ]
+}
