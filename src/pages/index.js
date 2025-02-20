@@ -11,7 +11,7 @@ export default function Home() {
         </header>
 
         <nav className="text-center py-4">
-          <a href="johnverwey.uk/CV.pdf" target="_blank" className="text-blue-400 hover:underline">My CV</a>
+          <a href="/CV.pdf" target="_blank" className="text-blue-400 hover:underline">My CV</a>
         </nav>
 
         <section className="my-10">
