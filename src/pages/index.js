@@ -10,10 +10,6 @@ export default function Home() {
           <p className="text-gray-400 text-lg">Mathematician & Freelance Programmer</p>
         </header>
 
-        <nav className="text-center py-4">
-          <a href="/CV.pdf" target="_blank" className="text-blue-400 hover:underline">My CV</a>
-        </nav>
-
         <section className="my-10">
           <h2 className="text-2xl font-semibold border-b border-gray-700 pb-2">About Me</h2>
           <p className="text-gray-300 mt-4">
